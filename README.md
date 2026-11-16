@@ -656,8 +656,7 @@ Projeto educacional criado para estudo de Vibe Coding, Design Universal, acessib
 
 Acesse a versão publicada:
 
- https://dinheiro-em-dia-20.lovable.app
-
+https://dinheiro-em-dia-20.lovable.app
 ---
 ...
 
